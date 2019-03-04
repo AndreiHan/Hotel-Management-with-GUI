@@ -1,2 +1,2 @@
-# Hotel-Management-with-GUI-
+# Hotel-Management-with-GUI
 GUI made with Swing
